@@ -1,7 +1,42 @@
+header {
+    
+}
+
+nav {
+    height: 60px;
+    width: 1020px;
+    background-color: #000000;
+    text-align: center;
+    margin: 0 auto;
+    overflow: auto;
+    display: block;
+    }
+
+li {
+    display: inline;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: 18px;
+    font-family: Josefin Sans;
+    text-align: center;
+}
+
+a {
+    color: #cfa205;
+    text-decoration:none;
+}
+
+#main_title {
+    height: 320px;
+    width: 1020px;
+    background-color: #000000;
+    margin: 0 auto;
+    vertical-align: top;
+}
+
 h1 {
     font-size: 133px;
     font-family: Josefin Sans, Arial;
     color: #cfa205;
     text-align: center;
-    background-color: #000000
 }
