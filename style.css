@@ -98,3 +98,17 @@ p {
     margin: 0 auto;
 }
 
+#row1 {
+    height: 260px;
+    width: 1020px;
+    background-color: #ffffff;
+    text-align: center;
+    margin: 0 auto;
+    overflow: auto;
+    display: block;
+    }
+    
+#row1 div {
+    display: inline;
+    margin: 20px;
+}
