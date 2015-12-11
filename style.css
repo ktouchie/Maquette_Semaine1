@@ -23,6 +23,7 @@ li {
     margin-right: 15px;
     font-size: 18px;
     font-family: Josefin Sans;
+    font-weight: bold;
     text-align: center;
 }
 
@@ -66,10 +67,34 @@ p {
     background-color: #e8e8e8;
     font-size: 30px;
     font-family: Josefin Sans, Arial;
-    color: #cfa205;
-    margin: 0 auto;
+    color: #7a7a7a;
     text-align: center;
+    margin: 0 auto;
     padding-top: 20px;
     padding-bottom: 0px;
+}
+
+#tagline {
+    margin: 0 auto;
+    height: 120px;
+    width: 1020px;
+    background-color: #ffffff;
+    font-size: 18px;
+    font-family: Bitter, Arial;
+    font-weight: bold;
+    color: #7a7a7a
+    text-align: center;
+    vertical-align: top;
+    padding-top: 30px;
+}
+
+#tagline p {
+    height: 30px;
+    width: 900px;
+    background-color: #ffffff;
+    color: #7a7a7a;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
 }
 
