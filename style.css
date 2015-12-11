@@ -1,5 +1,10 @@
-header {
-    
+
+* {
+    margin:0; padding:0;
+}
+
+body {
+    background-image: url("bg.jpg");
 }
 
 nav {
@@ -22,7 +27,7 @@ li {
 }
 
 a {
-    color: #cfa205;
+    color: #7a7a7a;
     text-decoration:none;
 }
 
@@ -39,4 +44,32 @@ h1 {
     font-family: Josefin Sans, Arial;
     color: #cfa205;
     text-align: center;
+    padding-top: 30px;
 }
+
+h5 {    
+    font-size: 18px;
+    font-family: Bitter, Arial;
+    color: #cfa205;
+    text-align: center;
+    padding-top: 70px;
+}
+
+p {
+    display: inline;
+    text-align: center;
+}
+
+#social {
+    height: 60px;
+    width: 1020px;
+    background-color: #e8e8e8;
+    font-size: 30px;
+    font-family: Josefin Sans, Arial;
+    color: #cfa205;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+
