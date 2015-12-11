@@ -112,3 +112,18 @@ p {
     display: inline;
     margin: 20px;
 }
+
+#row2 {
+    height: 480px;
+    width: 1020px;
+    background-color: #ffffff;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    }
+    
+#row2 div {
+    vertical-align: top;
+    display: inline;
+    margin: 20px;
+}
